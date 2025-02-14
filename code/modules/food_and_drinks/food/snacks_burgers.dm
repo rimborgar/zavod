@@ -128,7 +128,7 @@
 
 /obj/item/reagent_containers/food/snacks/burger/brain
 	name = "brainburger"
-	desc = "A strange looking burger. It looks almost sentient."
+	desc = "A strange looking burger. It looks almost sophontic."
 	icon_state = "brainburger"
 	bonus_reagents = list(/datum/reagent/consumable/nutriment = 6, /datum/reagent/medicine/mannitol = 6, /datum/reagent/consumable/nutriment/vitamin = 5)
 	list_reagents = list(/datum/reagent/consumable/nutriment = 6, /datum/reagent/medicine/mannitol = 5, /datum/reagent/consumable/nutriment/vitamin = 1)

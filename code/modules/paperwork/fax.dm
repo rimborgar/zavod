@@ -592,8 +592,8 @@
 	admin_fax_id = "syndicate"
 
 /obj/machinery/fax/admin/inteq
-	name = "IRMG Fax Machine"
-	fax_name = "IRMG Mothership"
+	name = "ANTAC Foundation Fax Machine"
+	fax_name = "ANTAC Central"
 	admin_fax_id = "inteq"
 
 /obj/machinery/fax/admin/minutemen

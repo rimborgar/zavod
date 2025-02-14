@@ -54,7 +54,7 @@
 
 /mob/living/simple_animal/hostile/asteroid/polarbear/lesser
 	name = "magic polar bear"
-	desc = "It seems sentient somehow."
+	desc = "It seems sophontic somehow."
 	faction = list("neutral")
 
 //elite bear
