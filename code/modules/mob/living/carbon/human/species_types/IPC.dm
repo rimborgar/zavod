@@ -3,7 +3,7 @@
 	id = SPECIES_IPC
 	sexes = FALSE
 	species_age_min = 0
-	species_age_max = 400
+	species_age_max = 500
 	species_traits = list(NOTRANSSTING,NOEYESPRITES,NO_DNA_COPY,TRAIT_EASYDISMEMBER,NOZOMBIE,MUTCOLORS,REVIVESBYHEALING,NOHUSK,NOMOUTH,NO_BONES) //all of these + whatever we inherit from the real species
 	inherent_traits = list(TRAIT_RESISTCOLD,TRAIT_VIRUSIMMUNE,TRAIT_NOBREATH,TRAIT_RADIMMUNE,TRAIT_GENELESS,TRAIT_LIMBATTACHMENT, TRAIT_METALLIC)
 	inherent_biotypes = MOB_ROBOTIC|MOB_HUMANOID
@@ -127,8 +127,8 @@
 	H.update_body()
 
 /obj/item/apc_powercord
-	name = "power cord"
-	desc = "An internal power cord hooked up to a battery. Useful if you run on electricity. Not so much otherwise."
+	name = "charge cord"
+	desc = "An internal charge cord hooked up to an internal battery. Useful if you run on electricity. Not so much otherwise."
 	icon = 'icons/obj/power.dmi'
 	icon_state = "wire1"
 
