@@ -368,6 +368,11 @@
 	has_snout = TRUE
 
 /datum/sprite_accessory/ipc_chassis/inteqsprinter
-	name = "Inteq Mothership 'Sprinter'"
+	name = "ANTAC Cerberus 'Sprinter'"
 	limbs_id = "inteqsprinter"
+	has_screen = FALSE
+
+/datum/sprite_accessory/ipc_chassis/inteqmedicae
+	name = "ANTAC Cerberus 'Medicae'"
+	limbs_id = "inteqmedicae"
 	has_screen = FALSE
